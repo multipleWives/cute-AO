@@ -1,0 +1,7 @@
+/Win/obj/
+/dist/
+*.pdb
+*.suo
+*.user
+*.VC.db
+/.vs/
